@@ -15,4 +15,4 @@ Projeto construído como base para o site do OP RPG!
 
 ## 📱 Contato
 
-kaavitorr@gmail.com.
+kaavitorr@gmail.com
